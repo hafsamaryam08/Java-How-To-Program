@@ -1,0 +1,64 @@
+James Goshling/ Sun Microsystems - 1991
+"write once, run anywhere."
+Java program five phases — edit, compile, load, verify and execute
+methods and classes
+The command cd is used to change directories
+
+Ch#2: Intro to Java Applications
+1. Welcome
+    first java program
+    displaing text with printf
+    obtain input using Scanner
+
+Ch#3: Intro to Classes, Objects, Methods and Strings
+2. GadeBookTest1
+    class declaration with one method/UML Diagram
+    class declaration with one method that has a parameter
+    set/get method for private instance variables
+    instance/local variables
+    primitive/reference types
+    constructors
+
+3. AccountTest
+    floating point numbers and type double
+    Account Class with an Instance Variable of Type double
+
+Ch#4: Control Statements: Part 1
+4. GadeBookTest2
+    Counter-Controlled Repetition
+    Sentinel-Controlled Repetition
+
+5. Analysis
+    Nested Control Statements
+
+6. Increment
+    prefix increment and postfix increment operators
+    sum of integers from 1 to 10
+    mystery1, 2, 3
+
+Ch#5: Control Statements: Part 2
+7. ControlSt
+    Counter-controlled repetition with while repetition statement
+    Counter-controlled repetition with for repetition statement
+    Sum the even integers from 2 to 20
+    Counter-controlled repetition with do-while repetition statement
+
+8. Interest
+    Compound-interest calculations with for
+
+9. SwitchSt
+    use of switch statement to count letter grades
+    
+10. BreakContinue
+    break statement exiting a for statement
+    continue statement terminating an iteration of a for statement
+
+11. LogicalOperators
+    create truth table for &&, ||, &, |, ^, ! 
+
+12. Printing
+    printing patterns using for loop
+
+Ch#6: Methods
+13. FindMaxMin
+    create separate methods to find the maximum and minimum values
