@@ -83,9 +83,3 @@ It covers fundamental concepts of Java programming through examples and exercise
 13. **FindMaxMin**  
    - Separate methods for finding maximum and minimum values  
 
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Java-HowToProgram-Practice.git
